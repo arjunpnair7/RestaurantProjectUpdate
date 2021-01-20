@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         String test6 = "z";
         String test7 = "8";
         String mergeBetweenBranchandMaster = "testString";
+        String yetAnotherTest = "yetAnotherTest";
 
 
     }
