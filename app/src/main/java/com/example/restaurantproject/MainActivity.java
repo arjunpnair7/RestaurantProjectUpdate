@@ -10,9 +10,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        String testString = "This is a string I created for testing purposes";
+      String test = "testString";
 
-        //Test change
-        
     }
 }
